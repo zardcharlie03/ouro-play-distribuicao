@@ -8,10 +8,23 @@
   "atalhos": [
     {
       "titulo": "YouTube",
-      "pacotes": ["com.google.android.youtube.tv", "com.google.android.youtube"]
+      "pacotes": [
+        "com.google.android.youtube.tv",
+        "com.google.android.youtube"
+      ]
+    },
+    {
+      "titulo": "Rádio",
+      "pacotes": [
+        "com.ouroplay.radio"
+      ]
     }
   ],
   "aviso": "",
   "whatsapp": "5535999691820",
-  "apps": []
+  "apps": [],
+  "radio": {
+    "extras": [],
+    "ocultar": []
+  }
 }
