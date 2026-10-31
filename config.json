@@ -22,7 +22,16 @@
   ],
   "aviso": "",
   "whatsapp": "5535999691820",
-  "apps": [],
+  "apps": [
+    {
+      "pacote": "com.ouroplay.launcher",
+      "titulo": "Ouro Play",
+      "instalar_se_faltar": false,
+      "versao": 3,
+      "apk_url": "https://github.com/zardcharlie03/ouro-play-distribuicao/releases/download/com.ouroplay.launcher-v3/com.ouroplay.launcher-3.apk",
+      "sha256": "4ef0f3e4abb15bfdea331b2f253cb73fc9f695f7f513178210a5abd6f02c090b"
+    }
+  ],
   "radio": {
     "extras": [
       {
