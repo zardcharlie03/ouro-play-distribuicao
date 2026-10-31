@@ -27,9 +27,9 @@
       "pacote": "com.ouroplay.launcher",
       "titulo": "Ouro Play",
       "instalar_se_faltar": false,
-      "versao": 5,
-      "apk_url": "https://github.com/zardcharlie03/ouro-play-distribuicao/releases/download/com.ouroplay.launcher-v5/com.ouroplay.launcher-5.apk",
-      "sha256": "06ba54c25a3899de9801420e6d73441c4f56946554daa11a570f34a4434ddab7"
+      "versao": 6,
+      "apk_url": "https://github.com/zardcharlie03/ouro-play-distribuicao/releases/download/com.ouroplay.launcher-v6/com.ouroplay.launcher-6.apk",
+      "sha256": "1abe72f16c2fb10d5c95e24a4075c6544da9bd50ed1037937901d30b85d7d696"
     },
     {
       "pacote": "com.ouroplay.radio",
