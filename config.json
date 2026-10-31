@@ -30,6 +30,14 @@
       "versao": 3,
       "apk_url": "https://github.com/zardcharlie03/ouro-play-distribuicao/releases/download/com.ouroplay.launcher-v3/com.ouroplay.launcher-3.apk",
       "sha256": "4ef0f3e4abb15bfdea331b2f253cb73fc9f695f7f513178210a5abd6f02c090b"
+    },
+    {
+      "pacote": "com.ouroplay.radio",
+      "titulo": "Ouro Rádio",
+      "instalar_se_faltar": true,
+      "versao": 1,
+      "apk_url": "https://github.com/zardcharlie03/ouro-play-distribuicao/releases/download/com.ouroplay.radio-v1/com.ouroplay.radio-1.apk",
+      "sha256": "c42125df15a55f0464f11ddd8e0c9013f5d09f6aeada7892d1750c2089b53a8c"
     }
   ],
   "radio": {
